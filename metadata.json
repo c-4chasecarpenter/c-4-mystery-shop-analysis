@@ -1,0 +1,6 @@
+{
+  "name": "Dealer Mystery Shop Comparison Dashboard",
+  "description": "A dark, highly polished retail performance dashboard comparing lead response times, qualities, findings, and key takeaways for dealerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
